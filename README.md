@@ -94,22 +94,14 @@
   </tr>
 </table>
 
-## 📈 GitHub 数据 · Stats
+## 📈 动态 · Activity
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HideTomb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HideTomb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=HideTomb&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-## 📊 贡献热力图 · Activity
-
+<!-- ============ CONTRIBUTION GRAPH ============ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HideTomb&theme=react-dark&hide_border=true&area=true&radius=12" alt="activity graph" width="100%" />
 </div>
 
-## 🐍 贪吃蛇 · Contribution Snake
-
+<!-- ============ SNAKE ANIMATION ============ -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HideTomb/HideTomb/main/dist/github-contribution-grid-snake-dark.svg" />
@@ -118,10 +110,9 @@
   </picture>
 </div>
 
-## 🏆 成就奖杯 · Trophies
-
+<!-- ============ STREAK ============ -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HideTomb&theme=onedark&column=7&margin-w=8&margin-h=8&no-frame=true&no-bg=false" alt="trophies" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=HideTomb&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 ## 💬 每日语录 · Dev Quote
