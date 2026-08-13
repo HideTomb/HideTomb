@@ -51,52 +51,18 @@
 
 ## 🔥 精选项目 · Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/nexus_os.png" height="64" alt="Nexus OS logo" />
-      <h3>🌊 Nexus OS（智屿 OS）</h3>
-      <p align="center">浏览器内「人与 Agent 协同工作平台」，Chat 对话 + 文档代理，深度融合内部知识库。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Vanilla-JS-F7DF1E?style=flat-square&logo=javascript" />
-        <img src="https://img.shields.io/badge/SSE-Streaming-2F81F7?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/md-host.png" height="64" alt="md-host logo" />
-      <h3>📚 md-host（智享）</h3>
-      <p align="center">内网 HTML/Markdown 文档托管平台，同时面向人类与 AI Agent。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-FastAPI-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/SQLite-FTS5-003B57?style=flat-square&logo=sqlite" />
-        <img src="https://img.shields.io/badge/Go-CLI-00ADD8?style=flat-square&logo=go" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/zhicheng.png" height="44" alt="天维·智呈 logo" />
-      <h3>📊 天维·智呈</h3>
-      <p align="center">AI 驱动的项目工作报告智能体，输入内容自动生成结构化报告。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-Flask-000000?style=flat-square&logo=flask" />
-        <img src="https://img.shields.io/badge/ECharts-Viz-CA8621?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vue%203-Dashboard-42B883?style=flat-square&logo=vue.js" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/svn_user.png" height="64" alt="SVN_User logo" />
-      <h3>🔐 SVN_User</h3>
-      <p align="center">新员工 SVN/VPN 账号一键开通 + 邮件通知，Web 界面 + CLI。</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vue-Frontend-42B883?style=flat-square&logo=vue.js" />
-        <img src="https://img.shields.io/badge/Python-Flask-3776AB?style=flat-square&logo=python" />
-        <img src="https://img.shields.io/badge/Windows-Agent-0078D6?style=flat-square&logo=windows" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_nexus.png" width="800" alt="Nexus OS（智屿 OS）" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_mdhost.png" width="800" alt="md-host（智享）" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_zhicheng.png" width="800" alt="天维·智呈" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_svn.png" width="800" alt="SVN_User" />
+</p>
 
 ## 📈 动态 · Activity
 
