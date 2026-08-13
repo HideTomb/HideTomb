@@ -110,8 +110,9 @@
   </picture>
 </div>
 
-<!-- ============ STREAK ============ -->
+<!-- ============ STATS + STREAK ============ -->
 <div align="center">
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=HideTomb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="stats" />
   <img height="170em" src="https://streak-stats.demolab.com?user=HideTomb&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
