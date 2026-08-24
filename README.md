@@ -54,10 +54,10 @@
 ## 🔥 精选项目 · Featured Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_nexus.png" width="800" alt="Nexus OS（智屿 OS）" />
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_nexus.svg" width="800" alt="Nexus OS（智屿 OS）" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_mdhost.png" width="800" alt="md-host（智享）" />
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_mdhost.svg" width="800" alt="md-host（智享）" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_zhicheng.svg" width="800" alt="天维·智呈" />
@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_admin.svg" width="800" alt="管理驾驶舱 / 智能体监控中心" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_svn.png" width="800" alt="SVN_User" />
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_svn.svg" width="800" alt="SVN_User" />
 </p>
 
 ## 🚀 近期在做什么 · Recently Building
