@@ -1,17 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="136" viewBox="0 0 820 136" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Microsoft YaHei, sans-serif">
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#151B2B"/></linearGradient></defs>
   <rect width="820" height="136" rx="16" fill="url(#bg)" stroke="#1f2937" stroke-width="1"/>
-  <rect x="28" y="36" width="64" height="64" rx="16" fill="#0f172a" stroke="#1f2937" stroke-width="1"/>
-  <rect x="46" y="52" width="32" height="40" rx="4" fill="#0f172a" stroke="#22c55e" stroke-width="2"/>
-  <line x1="52" y1="62" x2="72" y2="62" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
-  <line x1="52" y1="70" x2="72" y2="70" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
-  <line x1="52" y1="78" x2="64" y2="78" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
-  <rect x="64" y="46" width="16" height="12" rx="2" fill="#22c55e"/>
+  <rect x="28" y="36" width="64" height="64" rx="16" fill="#0f172a" stroke="#1f2937"/><rect x="46" y="52" width="32" height="40" rx="4" fill="#0f172a" stroke="#22c55e" stroke-width="2"/><line x1="52" y1="62" x2="72" y2="62" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/><line x1="52" y1="70" x2="72" y2="70" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/><line x1="52" y1="78" x2="64" y2="78" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/><rect x="64" y="46" width="16" height="12" rx="2" fill="#22c55e"/>
   <text x="112" y="58" font-size="30" font-weight="700" fill="#60a5ff">天维 · 智呈</text>
   <text x="114" y="82" font-size="15" fill="#9ca3af">智能报告生成 · 报告类 Agent</text>
-  <g transform="translate(112, 98)">
-    <rect x="0" y="0" width="90" height="22" rx="11" fill="#1f2937"/><text x="45" y="15" font-size="12" fill="#c9d1d9" text-anchor="middle">Python · Flask</text>
-    <rect x="98" y="0" width="62" height="22" rx="11" fill="#1f2937"/><text x="129" y="15" font-size="12" fill="#c9d1d9" text-anchor="middle">LLM</text>
-    <rect x="168" y="0" width="80" height="22" rx="11" fill="#1f2937"/><text x="208" y="15" font-size="12" fill="#c9d1d9" text-anchor="middle">报告生成</text>
-  </g>
+  <g transform="translate(112, 98)"><rect x="0" y="0" width="164" height="22" rx="11" fill="#1f2937"/><text x="82.0" y="15" font-size="12" fill="#c9d1d9" text-anchor="middle">Python · Flask</text><rect x="172" y="0" width="56" height="22" rx="11" fill="#1f2937"/><text x="200.0" y="15" font-size="12" fill="#c9d1d9" text-anchor="middle">LLM</text><rect x="236" y="0" width="64" height="22" rx="11" fill="#1f2937"/><text x="268.0" y="15" font-size="12" fill="#c9d1d9" text-anchor="middle">报告生成</text></g>
 </svg>
