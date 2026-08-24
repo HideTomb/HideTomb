@@ -22,6 +22,8 @@
 
 > 你好，我是 **HideTomb（HoaxNas）** —— 一名专注 **AI / Agent 应用** 与 **企业级内部工具** 的全栈开发者。让 Agent 处理重复，让人专注创造。
 
+> 🛠️ **近期重点**：智能体监控中心（管理驾驶舱）的多环境部署与指标口径重构、智屿 OS（Nexus OS）人与 Agent 协同工作平台。
+
 - 🤖 **AI / LLM 应用**：vLLM、Gemma、nanobot 引擎，构建 Agent 协同、知识库检索（RAG）与流式对话
 - 🌐 **全栈开发**：Python（FastAPI / Flask）后端 + Vue / 原生 JS / TypeScript 前端
 - 🧩 **Agent 生态**：MCP（Model Context Protocol）、人与 Agent 协同工作流
@@ -63,6 +65,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_svn.png" width="800" alt="SVN_User" />
 </p>
+
+## 🚀 近期在做什么 · Recently Building
+
+> 最近在持续打磨以下几条产品线的 Agent 能力（部分仓库为私有，仅展示进展）：
+
+- 🛡️ **管理驾驶舱 / 智能体监控中心**（`admin-dashboard`）— 智能体使用事件采集、指标聚合与可视化；近期完成节省工时口径重构（按 1 天/份估算）与 dev / test / prod 多环境部署。
+- 🌐 **智屿 OS / Nexus OS**（`Nexus_OS`）— 浏览器内人与 Agent 协同工作平台（今日更新）。
+- 📄 **智享 / md-host** — 内部网络 HTML / Markdown 托管平台，含全文检索与 AI 摘要。
+- 🤖 **项目工作报告智能体**（`project-work-summary-pro`）— AI 驱动的项目工作报告生成，支持 Web 界面与 ECharts 图表。
+- 🧩 **SVN 用户开通**（`SVN_User`）— SVN 账号开通与邮箱 onboarding 自动化。
+
+---
 
 ## 📈 动态 · Activity
 
