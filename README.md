@@ -62,6 +62,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_zhicheng.png" width="800" alt="天维·智呈" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_admin.svg" width="800" alt="管理驾驶舱 / 智能体监控中心" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_svn.png" width="800" alt="SVN_User" />
 </p>
