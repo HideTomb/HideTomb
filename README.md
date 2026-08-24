@@ -60,7 +60,7 @@
   <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_mdhost.png" width="800" alt="md-host（智享）" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_zhicheng.png" width="800" alt="天维·智呈" />
+  <img src="https://raw.githubusercontent.com/HideTomb/HideTomb/main/assets/cards/card_zhicheng.svg" width="800" alt="天维·智呈" />
 </p>
 
 <p align="center">
